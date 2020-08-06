@@ -1,7 +1,3 @@
-# wfg-restweb
-
-
-
 # Web Financial Group - test
 
 Test for WFG 
@@ -51,4 +47,4 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE](LICENSE) para detalles
